@@ -1,0 +1,67 @@
+! comments in xresources can be defined with exclamation marks
+// double slashes
+/*
+ * and this monster
+ */
+! its c bruv
+! Anyways
+
+#define fg #ebdbb2
+#define darkbg #1e1e1c
+#define lightbg #282828
+#define what #a89984
+
+! klok
+xclock*hourColor: what
+xclock*minuteColor: fg
+xclock*minorColor: what
+xclock*majorColor: fg
+xclock*face: MS Sans Serif 1:size=8:antialias=false:hinting=false
+
+! eyes
+xeyes*center: darkbg
+xeyes*outline: what
+
+! some random stuff idk
+urxvt*backgroundPixmap: /home/cirkul/Documents/ubg-gruv.xpm;style=tiled
+! urxvt*boldFont: xft:Cozette:size=10:antialias=false
+urxvt*cursorBlink: true
+urxvt*fadeColor: #202226
+urxvt*fading: 10
+urxvt*font: xft:Cozette:size=10:antialias=false
+urxvt*internalBorder: 9
+urxvt*lineSpace: 1
+urxvt*scrollBar: false
+urxvt*thickness: 6
+xterm*allowBoldFonts: true
+
+! colors (no touchy)
+*foreground: fg
+*background: darkbg
+*cursorColor: what
+! black
+*color0: darkbg
+*color8: #928374
+! red
+*color1: #cc241d
+*color9: #fb4934
+! green
+*color2: #98971a
+*color10: #b8bb26
+! yellow
+*color3: #d79921
+*color11: #fabd2f
+! blue
+*color4: #458588
+*color12: #83a598
+! magenta
+*color5: #b16286
+*color13: #d3869b
+! cyan
+*color6: #689d6a
+*color14: #8ec07c
+! white
+*color7: #a89984
+*color15: #ebdbb2
+
+
