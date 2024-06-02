@@ -1,0 +1,12 @@
+prog prompt _none_ ~/.icewm/urxvt
+prog browser _none_ firefox-esr
+prog file\ manager _none_ pcmanfm
+prog code _none_ vscodium
+menu garbage _none_ {
+	prog xterm _none_ xterm
+	prog xclock\ analogue _none_ xclock
+	prog xclock\ digital _none_ ~/.icewm/xclock
+	prog xcalc _none_ xcalc
+	prog xeyes _none_ xeyes
+	prog xlogo _none_ xlogo
+}

@@ -1,0 +1,11 @@
+key "Super+t"               ~/.icewm/urxvt
+key "Super+Enter"           rofi -show run
+key "Super+Print"           ~/.icewm/scrot
+key "Super+f"		    firefox
+key "Super+x"		    ~/.icewm/scrot3
+key "Super+s"		    ~/.icewm/scrot2
+key "Super+c"		    vscodium
+
+key "XF86AudioLowerVolume"  amixer sset Master 5%-
+key "XF86AudioRaiseVolume"  amixer sset Master 5%+
+key "XF86AudioMute"         amixer sset Master toggle

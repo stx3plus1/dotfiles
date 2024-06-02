@@ -1,0 +1,2 @@
+scrot -ube 'xclip -selection clipboard -t image/png -i $f'
+rm ~/*scrot.png
