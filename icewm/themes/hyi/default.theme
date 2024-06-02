@@ -1,0 +1,71 @@
+ThemeDescription="end of ice"
+
+ThemeAuthor="mtrkss"
+# cirkulx tweaked to use windows 3.1 colors, muted + my moon shot
+
+ShowMenuButtonIcon=0
+Look=flat
+TitleBarHeight=19
+TitleBarJustify=50
+
+Gradients="buttonI.xpm"
+
+TitleButtonsLeft="s"
+TitleButtonsRight="mi"
+TitleButtonsSupported="smi"
+
+# menus
+ColorActiveMenuItem="#c48469"
+ColorActiveMenuItemText="#ffffff"
+ColorListBoxSelection="#c48469"
+ColorListBoxSelectionText="#ffffff"
+
+BorderSizeX=4
+BorderSizeY=4
+DlgBorderSizeX=3
+DlgBorderSizeY=3
+ColorNormalBorder="#bbbbbb"
+ColorActiveBorder="#bbbbbb"
+ColorNormalButton="#bbbbbb"
+TaskbuttonIconOffset=8
+
+# titlebar
+ColorNormalTitleBar="#ffffff"
+ColorActiveTitleBar="#c48469"
+ColorNormalTitleBarText="#000000"
+ColorActiveTitleBarText="#ffffff"
+
+# movestatus
+ColorMoveSizeStatus="#282828"
+ColorMoveSizeStatusText="#bbbbbb"
+
+# run field (ctrl+alt+space)
+ColorInputSelection="#c48469"
+ColorInputSelectionText="#ffffff"
+
+# wallpaper
+DesktopBackgroundCenter=1
+DesktopBackgroundFill=0
+
+# clok
+ColorClock="#c0c0c0"
+ColorClockText="#000000"
+RolloverButtonsSupported=1
+
+# fonts
+ActiveWorkspaceFontNameXft =  	"MS Sans Serif 1:size=8:antialias=false:hinting=false"
+NormalWorkspaceFontNameXft = 	"MS Sans Serif 1:size=8:antialias=false:hinting=false"
+TitleFontNameXft		   = 	"MS Sans Serif Bold:size=8:antialias=true:hinting=true"
+MenuFontNameXft	           =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+MinimizedWindowFontNameXft =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+ActiveButtonFontNameXft    =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+NormalButtonFontNameXft    =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+QuickSwitchFontNameXft     =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+ListBoxFontNameXft         =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+LabelFontNameXft		   =	"MS Sans Serif 1:size=8:antialias=false:hinting=false"
+StatusFontNameXft          =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+ToolTipFontNameXft         =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+ActiveTaskBarFontNameXft   =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+NormalTaskBarFontNameXft   =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+ClockFontNameXft           =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
+ApmFontNameXft             =    "MS Sans Serif 1:size=8:antialias=false:hinting=false"
